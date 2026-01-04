@@ -1,1 +1,3 @@
-## This folder contains the sorting techniques implemented in python and it has real life examples to understand
+### This folder contains the sorting techniques implemented in python and it has real life examples to understand
+
+[3️⃣][1️⃣][2️⃣]➡️[1️⃣][2️⃣][3️⃣]
