@@ -6,5 +6,6 @@ Topics covered:
 - Arrays & Strings
 - Recursion
 - Sorting & Searching
+- two pointers
 
 #### Planning to upload more concepts in future 👨‍💻 ✨
