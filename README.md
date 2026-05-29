@@ -1,11 +1,42 @@
-# DSA-PROBLEMS-WIHT-SOLUTIONS
-This repository contains Data Structures and Algorithms (DSA) problems with clean solutions 
-**Problems are implemented in python and focus on building strong problems solving skills**
+# 🚀 DSA Problems & Solutions
 
-Topics covered:
-- Arrays & Strings
-- Recursion
-- Sorting & Searching
-- two pointers
+Welcome to the ultimate repository for mastering **Data Structures and Algorithms (DSA)**! This repo features clean, optimized, and well-commented solutions to essential DSA problems, implemented entirely in **Python**. 
 
-#### Planning to upload more concepts in future 👨‍💻 ✨
+Designed specifically to sharpen problem-solving skills and crack technical interviews. 🎯
+
+---
+
+## 📚 Topics Covered
+
+Currently, the repository includes solutions for:
+
+* 🔢 **Arrays & Strings** – Core manipulation, substrings, and matrix problems.
+* 🔄 **Recursion** – Divide-and-conquer strategy and backtracking basics.
+* ⚡ **Sorting & Searching** – Classic algorithms (Binary Search, Quick Sort, Merge Sort, etc.).
+* ↔️ **Two Pointers** – Optimized approaches for array traversal and sliding window concepts.
+
+---
+
+## 🛠️ Tech Stack
+
+* **Language:** Python 3.x
+* **Focus:** Code Readability, Time & Space Complexity Optimization
+
+---
+
+## 🗺️ Roadmap (Upcoming Concepts) 👨‍💻 ✨
+
+The learning never stops! I am actively working on adding:
+- [ ] Linked Lists & Stacks/Queues
+- [ ] Trees & Graphs
+- [ ] Dynamic Programming (DP)
+- [ ] Greedy Algorithms
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have a more optimized solution or want to add a new problem:
+1. Fork the repository.
+2. Create a new branch.
+3. Commit your clean solution and open a Pull Request!
