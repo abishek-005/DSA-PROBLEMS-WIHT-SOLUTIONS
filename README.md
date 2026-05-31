@@ -13,7 +13,8 @@ Currently, the repository includes solutions for:
 * 🔢 **Arrays & Strings** – Core manipulation, substrings, and matrix problems.
 * 🔄 **Recursion** – Divide-and-conquer strategy and backtracking basics.
 * ⚡ **Sorting & Searching** – Classic algorithms (Binary Search, Quick Sort, Merge Sort, etc.).
-* ↔️ **Two Pointers** – Optimized approaches for array traversal and sliding window concepts.
+* ↔️ **Two Pointers** – Optimized approaches for array traversal.
+* **Sliding window** - Optimized approaches for array traversala nd substring
 
 ---
 
