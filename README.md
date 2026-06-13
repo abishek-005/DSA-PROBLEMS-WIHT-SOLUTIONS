@@ -1,6 +1,6 @@
 # 🚀 DSA Problems & Solutions
 
-Welcome to the ultimate repository for mastering **Data Structures and Algorithms (DSA)**! This repo features clean, optimized, and well-commented solutions to essential DSA problems, implemented entirely in **Python**. 
+Welcome to the **My DSA Documentation** repository.This repo features clean, optimized, and well-commented solutions to essential DSA problems, implemented entirely in **Python**. 
 
 Designed specifically to sharpen problem-solving skills and crack technical interviews. 🎯
 
@@ -14,7 +14,8 @@ Currently, the repository includes solutions for:
 * 🔄 **Recursion** – Divide-and-conquer strategy and backtracking basics.
 * ⚡ **Sorting & Searching** – Classic algorithms (Binary Search, Quick Sort, Merge Sort, etc.).
 * ↔️ **Two Pointers** – Optimized approaches for array traversal.
-* **Sliding window** - Optimized approaches for array traversala nd substring
+* **Sliding window** - Optimized approaches for array traversala and substring
+* **Linkedlist** - 
 
 ---
 
@@ -32,6 +33,7 @@ The learning never stops! I am actively working on adding:
 - [ ] Trees & Graphs
 - [ ] Dynamic Programming (DP)
 - [ ] Greedy Algorithms
+- [ ] Backtracking
 
 ---
 
